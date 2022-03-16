@@ -1,0 +1,36 @@
+Lego Star Wars,LucasArts,2005,Xbox
+Lego Star Wars,LucasArts,2005,PlayStation 2
+Lego Star Wars,LucasArts,2005,PC
+Lego Star Wars,LucasArts,2005,Mac
+Tie Fighter,LucasArts,1994,PC
+X-Wing vs Tie Fighter,LucasArts,1997,PC
+,Sony Computer Entertainment,,
+,Square Enix,,
+,Sega,,
+Legend of Zelda,Nintendo,1987,NES
+Super Mario Brothers,Nintendo,1985,NES
+Zelda II: The Adventure of Link,Nintendo,1988,NES
+Tetris,Nintendo,1989,Game Boy
+Super Mario Land,Nintendo,1989,Game Boy
+GTA IV,Rockstar Games,2008,Xbox 360
+GTA IV,Rockstar Games,2008,PC
+GTA 3,Rockstar Games,,
+GTA 2,Rockstar Games,,
+GTA,Rockstar Games,,
+,Blizzard Entertainment,,
+Mega Man 3,Capcom,1990,NES
+Mega Man 4,Capcom,,
+Contra,Capcom,,
+,Atari,,
+Portal,Valve,2007,PlayStation 3
+Portal,Valve,2007,PC
+Portal,Valve,2007,Xbox 360
+Portal 2,Valve,2011,Xbox 360
+Portal 2,Valve,2011,PlayStation 3
+Portal 2,Valve,2011,PC
+Portal 2,Valve,2011,Mac
+Katamari Damacy,Namco,2004,PlayStation 2
+Out of this World,Delphine Software,1992,PC
+Out of this World,Delphine Software,1992,Super NES
+Assassin's Creed,Ubisoft,2007,Xbox 360
+,Ubisoft,,

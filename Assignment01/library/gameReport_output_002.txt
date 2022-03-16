@@ -1,0 +1,16 @@
+Epic Games = 1
+Finji = 1
+Merge Games = 1
+TinyBuild = 1
+Ubisoft = 1
+Xbox Game Studios = 1
+1047 Games = 1
+
+Dead Cells = 1
+Fortnite = 2
+Rainbow Six Siege = 2
+Rocket League = 0
+Sea of Thieves = 1
+SpeedRunners = 1
+Splitgate = 0
+Wilmots Warehouse = 1

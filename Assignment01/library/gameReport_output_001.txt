@@ -1,0 +1,10 @@
+Bungee = 0
+Electronic Arts = 3
+Rockstar Studios = 1
+Rocksteady Studios = 1
+
+Batman Arkham City = 1
+Battlefield 3 = 1
+Battlefield 4 = 0
+Dantes Inferno = 1
+GTA V = 2
