@@ -1,0 +1,102 @@
+<list>
+  <Property>
+    <assetCode>PA001</assetCode>
+    <assetType>P</assetType>
+    <assetName>Boardwalk</assetName>
+    <appraisedValue>400000.0</appraisedValue>
+  </Property>
+  <Property>
+    <assetCode>PA002</assetCode>
+    <assetType>P</assetType>
+    <assetName>57 Chevy</assetName>
+    <appraisedValue>47000.0</appraisedValue>
+  </Property>
+  <Property>
+    <assetCode>PA003</assetCode>
+    <assetType>P</assetType>
+    <assetName>Honus Wagner Card</assetName>
+    <appraisedValue>1200000.0</appraisedValue>
+  </Property>
+  <Property>
+    <assetCode>PA004</assetCode>
+    <assetType>P</assetType>
+    <assetName>1993 Ford Festiva</assetName>
+    <appraisedValue>3.5</appraisedValue>
+  </Property>
+  <Property>
+    <assetCode>PA005</assetCode>
+    <assetType>P</assetType>
+    <assetName>2020 Honda Fit</assetName>
+    <appraisedValue>14500.0</appraisedValue>
+  </Property>
+  <Stock>
+    <assetCode>GOOG001</assetCode>
+    <assetType>S</assetType>
+    <assetName>Google Inc.</assetName>
+    <stockSymbol>GOOG</stockSymbol>
+    <sharePrice>3000.0</sharePrice>
+  </Stock>
+  <Stock>
+    <assetCode>123APP</assetCode>
+    <assetType>S</assetType>
+    <assetName>Apple</assetName>
+    <stockSymbol>AAPL</stockSymbol>
+    <sharePrice>429.8</sharePrice>
+  </Stock>
+  <Stock>
+    <assetCode>No1BURR</assetCode>
+    <assetType>S</assetType>
+    <assetName>Chipotle Mexican Grill</assetName>
+    <stockSymbol>CMG</stockSymbol>
+    <sharePrice>341.91</sharePrice>
+  </Stock>
+  <Stock>
+    <assetCode>B0oWM</assetCode>
+    <assetType>S</assetType>
+    <assetName>Costco</assetName>
+    <stockSymbol>COST</stockSymbol>
+    <sharePrice>106.13</sharePrice>
+  </Stock>
+  <Stock>
+    <assetCode>N0TPIX</assetCode>
+    <assetType>S</assetType>
+    <assetName>3D Systems</assetName>
+    <stockSymbol>DDD</stockSymbol>
+    <sharePrice>35.4</sharePrice>
+  </Stock>
+  <Cryptocurrency>
+    <assetCode>BTC001</assetCode>
+    <assetType>C</assetType>
+    <assetName>Bitcoin</assetName>
+    <exchangeRate>65694.5</exchangeRate>
+    <exchangeFeeRate>1.25</exchangeFeeRate>
+  </Cryptocurrency>
+  <Cryptocurrency>
+    <assetCode>BARK</assetCode>
+    <assetType>C</assetType>
+    <assetName>Dogecoin</assetName>
+    <exchangeRate>0.2788</exchangeRate>
+    <exchangeFeeRate>2.75</exchangeFeeRate>
+  </Cryptocurrency>
+  <Cryptocurrency>
+    <assetCode>EIF101</assetCode>
+    <assetType>C</assetType>
+    <assetName>Ethereum</assetName>
+    <exchangeRate>4745.83</exchangeRate>
+    <exchangeFeeRate>1.75</exchangeFeeRate>
+  </Cryptocurrency>
+  <Cryptocurrency>
+    <assetCode>SC1000</assetCode>
+    <assetType>C</assetType>
+    <assetName>StupidCoin 1k</assetName>
+    <exchangeRate>1.01</exchangeRate>
+    <exchangeFeeRate>8.5</exchangeFeeRate>
+  </Cryptocurrency>
+  <Cryptocurrency>
+    <assetCode>SPICY</assetCode>
+    <assetType>C</assetType>
+    <assetName>Flow</assetName>
+    <exchangeRate>13.85</exchangeRate>
+    <exchangeFeeRate>5.5</exchangeFeeRate>
+  </Cryptocurrency>
+</list>

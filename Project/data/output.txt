@@ -1,0 +1,310 @@
+Account Summary Report by Owner 
+==============================================================================================================
+Account    Owner                Manager                       Fees          Return         Ret%          Value
+--------------------------------------------------------------------------------------------------------------
+AC005     Dale, Sveum         Bud, Fox                 $      110.00   $    700228.87  %  139.99   $ 1200418.87
+AC004     Finn, Mertens       Gordon, Gekko            $        0.00   $    444293.25  %   68.26   $ 1095141.25
+AC003     Miles, O'Brien      Jon, Pertwee             $      100.00   $    323291.00  %  246.17   $ 454621.00
+AC002     Brock, Sampson      Patrick, Troughton       $       75.00   $    256579.02  %  574.55   $ 301236.02
+ACOO6     Dale, Sveum         Bud, Fox                 $        0.00   $      3000.00  %   27.27   $ 14000.00
+AC001     Starlin, Castro     William, Hartnell        $       82.50   $    304334.92  %   69.76   $ 740584.92
+                                                       --------------------------------------------------------
+                                                Totals $      367.50   $   2031727.07  % 1126.01   $ 3806002.07
+
+
+Account Summary Report by Owner 
+==============================================================================================================
+=======================================
+||       Noob Account: AC005         ||
+=======================================
++-----------+
+|   Owner   |
++-----------+
+Dale, Sveum              
+[sveum@cubs.com]                                  
+1060 West Addison Street 
+Chicago, IL 60613
++-------------+
+|   Manager   |
++-------------+
+Bud, Fox                 
+[bfox@gmail.com, csheen@crazy.net]                
+321 Bronx Street 
+New York, NY 10004
++---------------+
+|  Beneficiary  |
++---------------+
+Starlin, Castro          
+[scastro@cubs.com, starlin_castro13@gmail.com]    
+1060 West Addison Street 
+Chicago, IL 60613
++----------------+
+|     Assets     |
++----------------+
+N0TPIX     3D Systems           DDD (Stock)
+  Cost Basis:  10.0 shares @ 12.5 on 2018-02-28
+  Value Basis: 10.0 shares @ 35.4                       183.2%    $      354.0
+
+BTC001          Bitcoin (Crypto)
+  Cost Basis:  0.001 coins @ $65000.0 on 2021-01-01
+  Value Basis: 0.001 coins @ $65694.5 less 1.25%            -0.19489423076922208%    $      64.87331875000001
+
+PA003          Honus Wagner Card (Property)
+  Cost Basis:  purchased @ $500000.0 on 2010-08-30
+  Value Basis: appraised @ $1200000.0                              140.0%    $       1200000.0
+
++---------------+
+|    Totals     |
++---------------+
+Total Value:         $      1200418.87
+Cost Basis:          $       500190.00
+Total Account Fees:  $          110.00
+Total Return:        $       700228.87
+Total Return %:      $          139.99
+
+
+=======================================
+||       Noob Account: AC004         ||
+=======================================
++-----------+
+|   Owner   |
++-----------+
+Finn, Mertens            
+[finn@atime.com]                                  
+123 Tree House 
+Ooo, NE 68116
++-------------+
+|   Manager   |
++-------------+
+Gordon, Gekko            
+[]                                                
+1 Wall Street 
+New York, NY 10005-0012
++---------------+
+|  Beneficiary  |
++---------------+
+Dale, Sveum              
+[sveum@cubs.com]                                  
+1060 West Addison Street 
+Chicago, IL 60613
++----------------+
+|     Assets     |
++----------------+
+GOOG001     Google Inc.           GOOG (Stock)
+  Cost Basis:  150.0 shares @ 928.52 on 2020-01-01
+  Value Basis: 150.0 shares @ 3000.0                       223.09481755912634%    $      450000.0
+
+123APP     Apple           AAPL (Stock)
+  Cost Basis:  1500.0 shares @ 340.21 on 2013-04-25
+  Value Basis: 1500.0 shares @ 429.8                       26.350832329051684%    $      644787.25
+
+N0TPIX     3D Systems           DDD (Stock)
+  Cost Basis:  10.0 shares @ 125.5 on 2016-11-03
+  Value Basis: 10.0 shares @ 35.4                       -71.79282868525897%    $      354.0
+
++---------------+
+|    Totals     |
++---------------+
+Total Value:         $      1095141.25
+Cost Basis:          $       650848.00
+Total Account Fees:  $            0.00
+Total Return:        $       444293.25
+Total Return %:      $           68.26
+
+
+=======================================
+||       Noob Account: AC003         ||
+=======================================
++-----------+
+|   Owner   |
++-----------+
+Miles, O'Brien           
+[]                                                
+123 Friendly Street 
+Ottawa, ON K1A 0G9
++-------------+
+|   Manager   |
++-------------+
+Jon, Pertwee             
+[jpet@whofan.com]                                 
+301 Front St W 
+Toronto, ON M5V 2T6
++---------------+
+|  Beneficiary  |
++---------------+
+Finn, Mertens            
+[finn@atime.com]                                  
+123 Tree House 
+Ooo, NE 68116
++----------------+
+|     Assets     |
++----------------+
+123APP     Apple           AAPL (Stock)
+  Cost Basis:  1000.0 shares @ 120.83 on 2001-10-30
+  Value Basis: 1000.0 shares @ 429.8                       264.2481171894397%    $      440121.0
+
+PA005          2020 Honda Fit (Property)
+  Cost Basis:  purchased @ $10500.0 on 2020-03-01
+  Value Basis: appraised @ $14500.0                              38.0952380952381%    $       14500.0
+
++---------------+
+|    Totals     |
++---------------+
+Total Value:         $       454621.00
+Cost Basis:          $       131330.00
+Total Account Fees:  $          100.00
+Total Return:        $       323291.00
+Total Return %:      $          246.17
+
+
+=======================================
+||        Pro Account: AC002         ||
+=======================================
++-----------+
+|   Owner   |
++-----------+
+Brock, Sampson           
+[brock_f_sampson@gmail.com, bsampson@venture.com] 
+123 N 1st Street 
+Omaha, NE 68116
++-------------+
+|   Manager   |
++-------------+
+Patrick, Troughton       
+[ptroug@cse.unl.edu, ptrou32@unl.edu]             
+1060 West Addison Street 
+Chicago, IL 60613
++---------------+
+|  Beneficiary  |
++---------------+
+Dale, Sveum              
+[sveum@cubs.com]                                  
+1060 West Addison Street 
+Chicago, IL 60613
++----------------+
+|     Assets     |
++----------------+
+GOOG001     Google Inc.           GOOG (Stock)
+  Cost Basis:  100.0 shares @ 411.57 on 2016-02-03
+  Value Basis: 100.0 shares @ 3000.0                       631.9107806691451%    $      301232.52
+
+PA004          1993 Ford Festiva (Property)
+  Cost Basis:  purchased @ $3500.0 on 1995-07-01
+  Value Basis: appraised @ $3.5                              -99.9%    $       3.5
+
++---------------+
+|    Totals     |
++---------------+
+Total Value:         $       301236.02
+Cost Basis:          $        44657.00
+Total Account Fees:  $           75.00
+Total Return:        $       256579.02
+Total Return %:      $          574.55
+
+
+=======================================
+||        Pro Account: ACOO6         ||
+=======================================
++-----------+
+|   Owner   |
++-----------+
+Dale, Sveum              
+[sveum@cubs.com]                                  
+1060 West Addison Street 
+Chicago, IL 60613
++-------------+
+|   Manager   |
++-------------+
+Bud, Fox                 
+[bfox@gmail.com, csheen@crazy.net]                
+321 Bronx Street 
+New York, NY 10004
++---------------+
+|  Beneficiary  |
++---------------+
+Starlin, Castro          
+[scastro@cubs.com, starlin_castro13@gmail.com]    
+1060 West Addison Street 
+Chicago, IL 60613
++----------------+
+|     Assets     |
++----------------+
+GOOG001    Google Inc. Option GOOG (Call)
+  Buy upto 100 shares @ 3200.0 til 2021-12-31
+  Premium of $10.0/share ($1000.0 total)
+  Share Price: $3000.0
+  Long Call (not executed); Total loss: $1000.0       -100.00%    $        0.00
+
+GOOG001    Google Inc. Option GOOG (Call)
+  Buy upto 100 shares @ 2800.0 til 2021-12-31
+  Premium of $100.0/share ($10000.0 total)
+  Share Price: $3000.0
+  Short Call Value: 100 shares @ $100.0 = $10000.0       0.0%    $        20000.0
+
+GOOG001    Google Inc. Option GOOG (Put)
+  Sell upto 100 shares @ 3200.0 til 2021-12-31
+  Premium of $15.0/share ($1500.0 total)
+  Share Price: $3000.0
+  Long Put Value: 100 shares @ $15.0 = $1500.0       100.00%    $        1500.0
+
+GOOG001    Google Inc. Option GOOG (Put)
+  Sell upto 100 shares @ 2900.0 til 2021-12-31
+  Premium of $25.0/share ($2500.0 total)
+  Share Price: $3000.0
+  Short Put Value: 100 shares @ $25.0 = $-7500.0       -100.00%    $        -7500.0
+
++---------------+
+|    Totals     |
++---------------+
+Total Value:         $        14000.00
+Cost Basis:          $        11000.00
+Total Account Fees:  $            0.00
+Total Return:        $         3000.00
+Total Return %:      $           27.27
+
+
+=======================================
+||        Pro Account: AC001         ||
+=======================================
++-----------+
+|   Owner   |
++-----------+
+Starlin, Castro          
+[scastro@cubs.com, starlin_castro13@gmail.com]    
+1060 West Addison Street 
+Chicago, IL 60613
++-------------+
+|   Manager   |
++-------------+
+William, Hartnell        
+[whartnell@doctors.com, dr@who.com]               
+1060 West Addison Street 
+Chicago, IL 60613
++---------------+
+|  Beneficiary  |
++---------------+
+Miles, O'Brien           
+[]                                                
+123 Friendly Street 
+Ottawa, ON K1A 0G9
++----------------+
+|     Assets     |
++----------------+
+BTC001          Bitcoin (Crypto)
+  Cost Basis:  5.25 coins @ $5000.0 on 2015-03-01
+  Value Basis: 5.25 coins @ $65694.5 less 1.25%            1197.4663750000002%    $      340584.9234375
+
+PA001          Boardwalk (Property)
+  Cost Basis:  purchased @ $410000.0 on 2021-04-05
+  Value Basis: appraised @ $400000.0                              -2.439024390243901%    $       400000.0
+
++---------------+
+|    Totals     |
++---------------+
+Total Value:         $       740584.92
+Cost Basis:          $       436250.00
+Total Account Fees:  $           82.50
+Total Return:        $       304334.92
+Total Return %:      $           69.76
+
+
